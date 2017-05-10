@@ -1,4 +1,7 @@
-/* 
+pragma solidity ^0.4.11;
+
+
+/*
 Based on a contract built by Vlad and Vitalik for Ether signal
 If you need a license, refer to WTFPL.
 */
